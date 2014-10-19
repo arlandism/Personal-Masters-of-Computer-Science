@@ -4,7 +4,7 @@
 
 This is inspired by the [Personal MBA](http://personalmba.com/best-business-books/) by Josh Kaufman.  He compiled a list of books under disciplines that, if read, should constitute approximate knowledge of an MBA course.  This ignores the other benefits of an MBA like networking, but I resonate with the idea that the core knowledge can still be learned outside of a university.
 
-I do not have a CS degree, and feel guilty when deeper topics of computer science come up and I have to google it to keep up.  A deeper understanding of topics covered in a classic computer science degree will probably provide a problem solving base I currently don't have.  I dislike school for many things, and figure that I can get a relative, if not more beneficial education from a structured curriculum around similar topics.
+I do not have a CS degree, and a deeper understanding of topics covered in a classic computer science degree will probably provide a problem solving base I currently don't have. I dislike school for many things, and figure that I can get a relative, if not more beneficial education from a structured curriculum around similar topics.
 
 The Personal Masters of Computer Science (PMCS) will be on this repo, in a WIP state, for a long time.  Github is a good place for it to live in order for it to be accessible, easily changeable, and collaborative.
 
