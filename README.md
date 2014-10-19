@@ -1,4 +1,4 @@
-##Personal MCS
+##Personal Masters of Computer Science (PMCS)
 
 ###Motivation
 
