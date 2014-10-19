@@ -33,7 +33,7 @@ I muddled together the first version of this curriculum from [Carnegie Mellon’
 
 [Databases](https://github.com/bwvoss/Personal-Masters-of-Computer-Science/blob/master/DATABASES.md)
 
-[Distributed Systems and Infrastructure](https://github.com/bwvoss/Personal-Masters-of-Computer-Science/blob/master/DISTRIBUTED-SYSTEMS-AND-INFRASTRUCTURE.md)
+[Distributed Systems and Services](https://github.com/bwvoss/Personal-Masters-of-Computer-Science/blob/master/DISTRIBUTED-SYSTEMS-AND-SERVICES.md)
 
 [Embedded Systems](https://github.com/bwvoss/Personal-Masters-of-Computer-Science/blob/master/EMBEDDED-SYSTEMS.md)
 
@@ -43,5 +43,5 @@ I muddled together the first version of this curriculum from [Carnegie Mellon’
 
 [Teams and Workplace](https://github.com/bwvoss/Personal-Masters-of-Computer-Science/blob/master/TEAMS-AND-WORKPLACE.md)
 
-[Web and Mobile Applications](https://github.com/bwvoss/Personal-Masters-of-Computer-Science/blob/master/WEB-AND-MOBILE-APPLICATIONS.md)
+[Web and Mobile Applications and Deployment](https://github.com/bwvoss/Personal-Masters-of-Computer-Science/blob/master/WEB-AND-MOBILE-APPLICATIONS-AND-DEPLOYMENT.md)
 
