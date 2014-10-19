@@ -1,6 +1,6 @@
 ##Personal MCS
 
-###Motivation:
+###Motivation
 
 This is inspired by the [Personal MBA](http://personalmba.com/best-business-books/) by Josh Kaufman.  He compiled a list of books under disciplines that, if read, should constitute approximate knowledge of an MBA course.  This ignores the other benefits of an MBA like networking, but I resonate with the idea that the core knowledge can still be learned outside of a university.
 
@@ -21,27 +21,27 @@ Hopefully, we can get a list in this repo per discipline of a learner’s challe
 I muddled together the first version of this curriculum from [Carnegie Mellon’s MCS curriculum](http://www.csd.cs.cmu.edu/education/master/curriculum.html) and [NYU’s MCS curriculum](http://engineering.nyu.edu/academics/programs/computer-science-ms/curriculum), as well as advice from others.  Expect these to change:
 
 
-[Algorithm/Software Design and Testing]()
+[Algorithm/Software Design and Testing](https://github.com/bwvoss/Personal-Masters-of-Computer-Science/blob/master/ALGORITHM-SOFTWARE-DESIGN-AND-TESTING.md)
 
-[Artificial Intelligence and Machine Learning]()
+[Artificial Intelligence and Machine Learning](https://github.com/bwvoss/Personal-Masters-of-Computer-Science/blob/master/ARTIFICIAL-INTELLIGENCE-AND-MACHINE-LEARNING.md)
 
-[Compilers]()
+[Compilers](https://github.com/bwvoss/Personal-Masters-of-Computer-Science/blob/master/COMPILERS.md)
 
-[Computer Architecture and Networks]()
+[Computer Architecture and Networks](https://github.com/bwvoss/Personal-Masters-of-Computer-Science/blob/master/COMPUTER-ARCHITECTURE-AND-NETWORKS.md)
 
-[Cryptography and Security]()
+[Cryptography and Security](https://github.com/bwvoss/Personal-Masters-of-Computer-Science/blob/master/CRYPTOGRPAHY-AND-SECURITY.md)
 
-[Databases]()
+[Databases](https://github.com/bwvoss/Personal-Masters-of-Computer-Science/blob/master/DATABASES.md)
 
-[Distributed Systems and Infrastructure]()
+[Distributed Systems and Infrastructure](https://github.com/bwvoss/Personal-Masters-of-Computer-Science/blob/master/DISTRIBUTED-SYSTEMS-AND-INFRASTRUCTURE.md)
 
-[Embedded Systems]()
+[Embedded Systems](https://github.com/bwvoss/Personal-Masters-of-Computer-Science/blob/master/EMBEDDED-SYSTEMS.md)
 
-[Operating Systems]()
+[Operating Systems](https://github.com/bwvoss/Personal-Masters-of-Computer-Science/blob/master/OPERATING-SYSTEMS.md)
 
-[Programming Langauges]()
+[Programming Langauges](https://github.com/bwvoss/Personal-Masters-of-Computer-Science/blob/master/PROGRAMMING-LANGUAGES.md)
 
-[Teams and Workplace]()
+[Teams and Workplace](https://github.com/bwvoss/Personal-Masters-of-Computer-Science/blob/master/TEAMS-AND-WORKPLACE.md)
 
-[Web and Mobile Applications]()
+[Web and Mobile Applications](https://github.com/bwvoss/Personal-Masters-of-Computer-Science/blob/master/WEB-AND-MOBILE-APPLICATIONS.md)
 
