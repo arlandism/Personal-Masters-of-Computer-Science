@@ -1,7 +1,7 @@
-Books:
+### Books
 
-Online Resources:
-NOSQL, SQL, Data Mining tools
+### Online Resources
+* NOSQL, SQL, Data Mining tools
 
-Challenges:
-Build own DB
+### Challenges
+* Build own DB
